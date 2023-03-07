@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+HypResEvalPy/__init__.py
+HypResEvalPy/evaluate.py
+HypResEvalPy/test.py
+HypResEvalPy.egg-info/PKG-INFO
+HypResEvalPy.egg-info/SOURCES.txt
+HypResEvalPy.egg-info/dependency_links.txt
+HypResEvalPy.egg-info/requires.txt
+HypResEvalPy.egg-info/top_level.txt
